@@ -1,0 +1,17 @@
+asgiref                       
+Django                        
+django-redis                  
+djangorestframework           
+djangorestframework_simplejwt 
+drf-yasg                     
+inflection                    
+packaging                     
+pip                           
+PyJWT                         
+python-dotenv                 
+pytz                          
+PyYAML                        
+redis                         
+sqlparse                      
+tzdata                        
+uritemplate                   
